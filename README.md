@@ -2,10 +2,6 @@
 
 ###
 
-<img align="left" height="500" src="https://images.unsplash.com/photo-1618059485046-161ace8b928d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -29,10 +25,20 @@
 
 ###
 
+<img align="left" height="500" src="https://images.unsplash.com/photo-1618059485046-161ace8b928d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  />
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=GFaustin0&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GFaustin0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<p align="center"></p>
 
 ###
 
